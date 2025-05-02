@@ -19,7 +19,7 @@ We've got a great set of Django lessons coming your way! The remaining lectures 
 
 The lectures will add features, piece-by-piece, to a modern full-stack reference app named **CatCollector**.
 
-Let me show you the [**final version**](https://git.generalassemb.ly/seb-quokkas/django-catcollector-final) we’re going to build this week.
+Let me show you the [**final version**](https://github.com/RaulJiminian/django-catcollector-final) we’re going to build this week.
 
 Then, after the lessons, you will use lab time to repeat what you saw in the lesson by building your own app named anything you want, say - **FinchCollector**.
 
